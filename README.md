@@ -4,9 +4,9 @@ This repository holds my spatial history project for the Interconnected Places L
 
 ## About this project
 
-*(Replace this with a sentence or two about your own place: what it is, the time period, and what its main connections are.)*
+Mapping shift in conflict visulization as displayed by shifting social function of peacewalls from necessary borders to curb violence to spaces of artistic expression in Belfast and beyond.
 
-Example: This project maps Bombay in the late nineteenth century and the network of places its cotton-textile industry connected it to — across Maharashtra and around the Indian Ocean world.
+
 
 ## The files
 
